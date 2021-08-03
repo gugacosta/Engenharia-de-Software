@@ -1,2 +1,2 @@
 # Engenharia-de-Software
-He're my annotations about the disciplines of this course.
+Here are my annotations about the subjects of postgradueted program in Software Engineer.
