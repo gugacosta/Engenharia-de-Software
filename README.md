@@ -1,2 +1,2 @@
 # Engenharia-de-Software
-Here are my annotations about the subjects of postgradueted program in Software Engineer.
+Here are my annotations about the subjects of postgraduate program in Software Engineer.
