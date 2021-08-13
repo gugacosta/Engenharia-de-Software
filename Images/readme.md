@@ -1,1 +1,1 @@
-In this past are all imagesn used on the topics.
+In this past are all images used on the topics.
