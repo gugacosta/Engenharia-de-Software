@@ -22,8 +22,17 @@ Mitos dos profissionais da Área
 - A eng. de software fará criação de documentação desnecessária.
 
 Processo de Software
-- Comunicação
+-Comunicação
 -Planejamento
 -Modelagem
 -Construção
 -Entrega
+
+Modelo Prescritivo
+-Cascata
+  Dividido em etapas com um gerenciamento tradicional.
+-Incremental
+  Similar ao modelo concebido pelo Agile
+-Evolucionário
+  Evolução do projeto em espiral
+-Concorrentes
