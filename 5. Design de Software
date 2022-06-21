@@ -1,0 +1,77 @@
+# Software Design
+
+    Software design involves diferents activities as: functional and archteture model, user interface, systems aplication interfaces
+
+    ## Software Archteture
+        Definição macro, satisfazer os requisitos de qualideade, defined in the first interation with the clients, for example: Bookstore:
+
+        Techniques:
+        - Abstration: level of generalization
+        - Hide information: not important information not will show 
+        - Modularization: the services are divided in modules
+        - Separação de preocupações
+        - Acoplamento e coesão:
+        - Separação de políticas e implementações
+        - Separação das interfaces e implementações
+
+
+        - Parts diagram
+        - Implementation Diagram
+
+    ## Detailed Design
+        - Class Diagram
+        Functional requirements
+
+    ## Design Strategy
+
+
+
+    ## Arcteture project
+        - Goals: Analyses of client requirements: functional and non functionals
+        - Alternatives:
+        - Restrictions:
+        - Representation:
+        - 
+
+        ### Tech Debt
+        - Determine quality requirements
+        - Select de most value requirements
+        - Explain archteture decision
+        Documento
+        - Interative archteture
+        - interfaces
+        - Tests and prototypes
+        what don't:
+         - rigidez
+         - fragility
+         - imobility
+         - viscosity
+         - unecessary complexity
+         - unecessary repetition (duplicates)
+         - opacidade (not clearly)
+        Classification:
+        Reckless - Don't have time for better design
+        Reckless and prudent - assume the consequences
+        Deliberate and Inadvertense
+        Prudent and inadvertense
+
+        ### Prescritive and Rational Unified Process(RUP)
+        - Atack the principally risks fast and continuous: mitigation and contencion
+        - Increment value to client
+        - Software executavel
+        - arquitetura antes: build the system in components, iterative
+        
+        RUP "etapas":
+        "Concepção": Undestanding the scope, build business case
+        "Elaboração": Decrease tech risks, make archteture
+        "Construção: How to build operational system
+        Transition: Tests and avaliation
+
+        ### SSD - System Sequence Diagram
+            -
+
+        ### Responsability, patterns and principles of project
+            - RDD: Responsability Drive Design
+                GRASP: General Responsabiltity Assignment SoftwarePatterns
+            - DDD: Domain Driven design
+            - TDD: Teste Driven Development
